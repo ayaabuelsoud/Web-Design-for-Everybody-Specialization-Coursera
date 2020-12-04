@@ -15,4 +15,49 @@ This is a repository for the labs and projects for courses on [Web Design For Ev
 Final HTML5 project of "Introduction to HTML5" Course
 2. Introduction to CSS3 Course
 Final project from "Introduction to CSS3" Course
+3. Portfolio Project for Web Design for Everybody Capstone
+
 ---
+### Portfolio Project Demo
+
+* You can visit the Protoflio [here](https://ayaabuelsoud-portfolio-template.000webhostapp.com/).
+
+---
+
+### Web Design for Everybody Capstone Project (Portfolio Project)
+* developed a professional-quality web portfolio.
+* Designed the website from scratch.
+* Built HTML structure.
+* Added CSS style.
+* Added Responsive for all screens.
+* Added JavaScript Interactivity [pure].
+* Valdited On w3 Validator.
+
+---
+
+### sketches for the Portoflio
+* This is a design for Desktop screen
+
+![LargeScreen-design](https://github.com/ayaabuelsoud/Web-Design-for-Everybody-Specialization-Coursera/blob/main/Portfolio%20Project%20for%20Web%20Design%20for%20Everybody%20Capstone/Sketch/largescreen.PNG)
+
+
+* This is a design for Mobile screen
+
+![Mobile-view](https://github.com/ayaabuelsoud/Web-Design-for-Everybody-Specialization-Coursera/blob/main/Portfolio%20Project%20for%20Web%20Design%20for%20Everybody%20Capstone/Sketch/mobile.PNG)
+
+---
+
+### w3 Validation
+
+* for index.html
+
+![w3validator Html](https://github.com/ayaabuelsoud/Web-Design-for-Everybody-Specialization-Coursera/blob/main/Portfolio%20Project%20for%20Web%20Design%20for%20Everybody%20Capstone/ValidatorHtml.PNG)
+
+* for Style.css
+
+![w3validator Css](https://github.com/ayaabuelsoud/Web-Design-for-Everybody-Specialization-Coursera/blob/main/Portfolio%20Project%20for%20Web%20Design%20for%20Everybody%20Capstone/ValidatorCss.PNG)
+
+
+
+
+
