@@ -25,13 +25,13 @@ Final project from "Introduction to CSS3" Course
 ---
 
 ### Web Design for Everybody Capstone Project (Portfolio Project)
-* developed a professional-quality web portfolio.
-* Designed the website from scratch.
-* Built HTML structure.
+* I Developed a professional-quality web portfolio.
+* Designed the website sketch from scratch
+* Built an HTML structure.
 * Added CSS style.
 * Added Responsive for all screens.
 * Added JavaScript Interactivity [pure].
-* Valdited On w3 Validator.
+* Validated On w3C Validator
 
 ---
 
