@@ -20,7 +20,7 @@ Final project from "Introduction to CSS3" Course
 ---
 ### Portfolio Project Demo
 
-* You can visit the Protoflio [here](https://ayaabuelsoud-portfolio-template.000webhostapp.com/).
+* You can visit the Protoflio [here](https://ayaabuelsoud-portfoliotemplate.000webhostapp.com/).
 
 ---
 
