@@ -20,7 +20,7 @@ Final project from "Introduction to CSS3" Course
 ---
 ### Portfolio Project Demo
 
-* You can visit the Protoflio [here](https://ayaabuelsoud-portfoliotemplate.000webhostapp.com/).
+* You can visit the Protoflio [here](https://ayaabuelsoud.github.io/#home).
 
 ---
 
@@ -35,13 +35,13 @@ Final project from "Introduction to CSS3" Course
 
 ---
 
-### sketches for the Portoflio
-* This is a design for Desktop screen
+### sketches for the Portfolio
+* This is a design for a Desktop screen
 
 ![LargeScreen-design](https://github.com/ayaabuelsoud/Web-Design-for-Everybody-Specialization-Coursera/blob/main/Portfolio%20Project%20for%20Web%20Design%20for%20Everybody%20Capstone/Sketch/largescreen.PNG)
 
 
-* This is a design for Mobile screen
+* This is a design for a Mobile screen
 
 ![Mobile-view](https://github.com/ayaabuelsoud/Web-Design-for-Everybody-Specialization-Coursera/blob/main/Portfolio%20Project%20for%20Web%20Design%20for%20Everybody%20Capstone/Sketch/mobile.PNG)
 
